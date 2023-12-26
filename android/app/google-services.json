@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664767246844",
+    "project_id": "authtutorial-81cc5",
+    "storage_bucket": "authtutorial-81cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664767246844:android:966b1cc7b22ae80ba10279",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664767246844-i3q775svgvh2e05hklave3mf5c5d0p42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YMYM3ZhNrLRTi4hsXnW3cZ1JMoXDCKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664767246844-i3q775svgvh2e05hklave3mf5c5d0p42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
